@@ -1,1 +1,6 @@
-<Solution />
+<Solution>
+  <Project Path="TaskApp.Application/TaskApp.Application.csproj" />
+  <Project Path="TaskApp.Domain/TaskApp.Domain.csproj" />
+  <Project Path="TaskApp.Infrastructure/TaskApp.Infrastructure.csproj" />
+  <Project Path="TaskApp.WebApi/TaskApp.WebApi.csproj" />
+</Solution>
